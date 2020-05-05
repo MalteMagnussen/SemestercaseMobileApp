@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "MalteApp",
+    "slug": "malte",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Maltes front-end app for Periode 3",
+    "githubUrl": "https://github.com/MalteMagnussen/Fullstack-JavaScript/tree/master/week12/geoDemoNoDB-Client-startcode-master"
+  }
+}
